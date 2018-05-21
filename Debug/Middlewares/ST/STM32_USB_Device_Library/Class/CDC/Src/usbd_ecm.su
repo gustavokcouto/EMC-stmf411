@@ -1,0 +1,13 @@
+usbd_ecm.c:162:16:USBD_ECM_Setup	0	static
+usbd_ecm.c:169:16:USBD_ECM_DataIn	0	static
+usbd_ecm.c:250:16:USBD_ECM_EP0_RxReady	0	static
+usbd_ecm.c:255:23:USBD_ECM_GetFSCfgDesc	0	static
+usbd_ecm.c:274:16:USBD_ECM_ReceivePacket	16	static
+usbd_ecm.c:236:16:USBD_ECM_SOF	8	static
+usbd_ecm.c:186:16:USBD_ECM_DataOut	16	static
+usbd_ecm.c:137:16:USBD_ECM_DeInit	16	static
+usbd_ecm.c:103:16:USBD_ECM_Init	16	static
+usbd_ecm.c:261:9:USBD_ECM_RegisterInterface	0	static
+usbd_ecm.c:285:6:USBD_ECM_PMAConfig	0	static
+usbd_ecm.c:298:6:ECM_TransmitPacket	16	static
+usbd_ecm.c:320:6:ECM_RenewReceivePacket	8	static
